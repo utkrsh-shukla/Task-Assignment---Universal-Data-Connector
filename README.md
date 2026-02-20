@@ -5,6 +5,9 @@ A production-quality **Universal Data Connector** built with FastAPI that provid
 
 ---
 
+<img width="1597" height="660" alt="image" src="https://github.com/user-attachments/assets/c6f22d41-e4df-4f40-8cd6-c8388c59affe" />
+
+
 ## Features
 
 - **3 Data Connectors** — CRM customers, support tickets, and analytics metrics
