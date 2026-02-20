@@ -1,0 +1,30 @@
+# Virtual environments & caches
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Tests (not needed in production image)
+tests/
+
+# Git
+.git/
+.gitignore
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files (secrets)
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Documentation (not needed at runtime)
+SUMMARY.md
+*.md
+!README.md
